@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>home.js</file>
+        <file>ring.js</file>
+        <file>star.js</file>
+        <file>watch.js</file>
+    </qresource>
+</RCC>
